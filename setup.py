@@ -35,6 +35,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     zip_safe=True,
+    python_requires='>=3.6',
     extras_require={'testing': TEST_REQUIREMENTS},
     install_requires=APP_REQUIREMENTS,
     entry_points=ENTRY_POINTS)
