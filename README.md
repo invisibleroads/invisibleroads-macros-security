@@ -1,1 +1,1 @@
-# Shortcut Functions for Configuration Operations
+# Shortcut Functions for Security Operations

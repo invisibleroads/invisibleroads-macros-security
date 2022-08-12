@@ -1,14 +1,14 @@
 # vim
-*.sw?
+*.sw[op]
 *~
-.sw?
 # python
-*.egg
-*.egg-info
+*.egg*
 *.py[co]
 .cache
 .coverage
+.ipynb_checkpoints
 .pytest_cache
+.tox
 __pycache__
 build/
 dist/
