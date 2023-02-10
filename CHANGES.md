@@ -1,2 +1,4 @@
-# 1.0
-- Restore make_random_string
+## 1.0
+
+- Add `get_hash`
+- Restore `make_random_string`
